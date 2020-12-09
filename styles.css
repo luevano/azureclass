@@ -261,7 +261,6 @@ ol{
 	margin: 100px 0;
 	height: 2px;
 	background: #EEF0F7;
-
 }
 
 ol::before,
@@ -317,7 +316,7 @@ li .point{
 	border: 4px solid #fff;
 	border-radius: 10px;
 	background: #4A90E2;
-  position: absolute;
+  	position: absolute;
 }
 
 li .description{
